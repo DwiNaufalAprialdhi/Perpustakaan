@@ -1,0 +1,31 @@
+SELEKSI PT RAMAT LOKA
+
+Jawaban :
+
+1.	a. Git Commit akan melakukan perubahan pada repositori lokal sedangkan Git Push akan mendorong perubahan hingga repo jarak jauh.
+
+	b. Melakukan langkah 1. git branch fitur-baru ( membuat branch dengan nama fitur-baru )
+			     2. git checkout fitur-baru ( memilih/berpindah ke branch fitur-baru untuk mengerjakan )
+			     3. git checkout -b fitur-baru ( membuat dan langsung memilih/berpindah branch fitur-baru  )
+ 
+	c. Melakukan langkah 1.	git add nama_file / git add . ( untuk semua file )
+			     2. git status
+			     3. git commit -m nama_commit nya
+
+	d. Ya, karena saya sudah terbiasa dengan pengerjaan team menggunakan pull request, dengan ini pull request membantu lebih lanjut
+	   ketika sesudah membuat branch dan push commit yang di kerjakan lalu fungsi dari pull request adalah sebagai permintaan untuk menggabungkan kode
+	   serta membuat perubahan di repository hasil fork, lalu ingin menggabungkan dengan repository sumber ( develop ) maka kita harus membuat Pull Request.
+	   Langkah : - Buat branch baru
+		     - Lakukan kontribusi pada repository tersebut
+		     - Lakukan commit dan push
+		     - Submit perubahan agar bisa direview
+
+2.	Saya menggunakan Operasi Sistem Windows
+
+3. 	Ya, Laravel Community & PHP MYSQL Indonesia
+	
+4. 	-
+
+5. 	Dari sekolah, grup komunitas, instagram, dan youtube
+	
+6. 	a. Tidak tentu, tergantung pada kebutuhan di project
